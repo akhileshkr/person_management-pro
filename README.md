@@ -7,5 +7,9 @@ PERSON MANAGING PRO is the web based project. This web application is mainly foc
 ************
 
 1)Install the file into localhost in your system.
+
+
 2)import the db/db_personmanage.sql file into the sql server
+
+
 3)run it
