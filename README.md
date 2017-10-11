@@ -12,4 +12,7 @@ PERSON MANAGING PRO is the web based project. This web application is mainly foc
 2)import the db/db_personmanage.sql file into the sql server
 
 
-3)run it
+3)Install matlab in your system and put the mat folder into itand run the facerecog.m file
+
+
+4)After the matlab runs ,run the person_managing_pro
