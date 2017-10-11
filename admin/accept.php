@@ -12,12 +12,12 @@ $email=$_REQUEST['email'];
 	 
 	 
 	 
-$from="akhilesh0614@gmail.com";
-$account="gokulgsachu06@gmail.com";
-$password="kl20a1409gokulgs";
+$from="";//put the from mail address
+$account="";//put the account mail address
+$password="";//put the mail address password
 
 $to=$email;
-$fromc="akhilesh0614@gmail.com";
+$fromc="";//put the from mail address
 $from_name="Person Managing";
 $msg="<strong>Your account has been verified and accepted<br />
 </strong>"; // HTML message

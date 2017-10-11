@@ -1,11 +1,11 @@
 <?php
 
-$from="jojojacob15@gmail.com";
-$account="cablemanpro03@gmail.com";
-$password="cable1234";
+$from="";//from mail id
+$account="";//account mail id
+$password="";//account mail password
 
-$to="greeshmatm.675@gmail.com";
-$fromc="cablemanpro03@gmail.com";
+$to="";//to mail id
+$fromc="";//from mail id
 $from_name="Verification Message";
 $msg="<strong>You have been Selected as Volunteer Secretary of our NSS Unit<br />
 </strong>"; // HTML message
