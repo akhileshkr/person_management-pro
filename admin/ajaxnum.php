@@ -1,0 +1,1 @@
+<input type="text" name="txtpassport" placeholder="enter passport number" class="textbox" /> 

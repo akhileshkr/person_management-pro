@@ -1,0 +1,1 @@
+<input type="text" name="txtcasenum" placeholder="Enter case number" class="textbox"/>
